@@ -1,0 +1,8 @@
+# Không đưa file nội bộ lên repo
+*NOI_BO*
+_noi_bo/
+_to_delete/
+*.tmp
+~$*
+.DS_Store
+Thumbs.db
