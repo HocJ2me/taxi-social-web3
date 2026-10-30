@@ -6,3 +6,6 @@ _to_delete/
 ~$*
 .DS_Store
 Thumbs.db
+
+# Trang gốc chưa mã hóa không đưa lên repo
+*.plain.html
